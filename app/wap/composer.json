@@ -1,0 +1,13 @@
+{
+    "name": "thinkcmf/apps-wap",
+    "description": "WapApp",
+    "type": "cmf-app",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rechard Taisen",
+            "email": "cq_hhc@qq.com"
+        }
+    ],
+    "require": {}
+}
